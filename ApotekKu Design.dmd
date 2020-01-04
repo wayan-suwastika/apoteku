@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ApotekKu Design" id="6BB6DE65-0370-60DB-9CAD-A1A12E6ADB5C" version="3.5">
+<createdBy>Microsoft</createdBy>
+<createdTime>2019-12-30 04:13:36 UTC</createdTime>
+<ownerDesignName>ApotekKu Design</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6BB6DE65-0370-60DB-9CAD-A1A12E6ADB5C</designId>
+</OSDM_Design>
